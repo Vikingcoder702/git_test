@@ -1,0 +1,1 @@
+This is Snakedoc's first git project.
